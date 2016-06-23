@@ -1,0 +1,25 @@
+{
+  "name": "opencv_faced_detect",
+  "version": "1.1.3",
+  "description": "light-weight library for face recognition including features such as eyes, nose and mouth. and make image",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "mkdirp": "^0.5.0",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "face",
+    "face detection",
+    "face recognition",
+    "face identification",
+    "detection",
+    "recognition"
+  ],
+  "author": "Fora Opencv Face Detection Image",
+  "license": "MIT"
+}
